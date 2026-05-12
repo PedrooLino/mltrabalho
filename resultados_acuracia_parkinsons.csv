@@ -1,0 +1,6 @@
+Classificador,Media Acuracia
+Perceptron,0.7863
+Bayes,0.7265
+MLP,0.9487
+SVM,0.9145
+Decision Tree,0.8632
